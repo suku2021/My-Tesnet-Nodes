@@ -1,5 +1,5 @@
 ## Katıldığım projeler
 # Ağ Projeleri
 - Arbitrum
--Celestia
+- Celestia
 - Zetalaps
